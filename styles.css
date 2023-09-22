@@ -1,0 +1,6 @@
+.payment-cards {
+    background-color: rgb(108, 117, 125);
+    width: 40%;
+    border-radius: 2px;
+    display: flex;
+}
